@@ -53,6 +53,7 @@ img{
     height: 37em;
     color: aliceblue;
     border-radius: 2em;
+    padding: 0px 10px;
     box-shadow: 1px 1px 8px 2px;
 }
 
